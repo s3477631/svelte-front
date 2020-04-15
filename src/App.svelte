@@ -2,7 +2,7 @@
 </script>
 
 <main>
-	<iframe data="http://stackoverflow.com" title="figma" width="400" height="300" type="text/html">
+	<iframe src="http://stackoverflow.com" title="figma" width="400" height="300">
 		Alternative Content
 	</iframe>
 </main>
