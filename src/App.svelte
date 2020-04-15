@@ -2,9 +2,9 @@
 </script>
 
 <main>
-	<object data="http://stackoverflow.com" width="400" height="300" type="text/html">
+	<iframe data="http://stackoverflow.com" width="400" height="300" type="text/html">
 		Alternative Content
-	</object>
+	</iframe>
 </main>
 
 <style>
